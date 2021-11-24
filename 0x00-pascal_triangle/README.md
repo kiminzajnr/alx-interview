@@ -6,6 +6,7 @@
 - You can assume n will be always an integer  
 
 ```
+sample output:  
 [1]  
 [1,1]  
 [1,2,1]  

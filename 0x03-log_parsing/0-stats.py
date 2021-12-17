@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Log parsing
+Log parsing: reads a stdin line by line and computes metrics
 """
 import fileinput
 from typing import List
